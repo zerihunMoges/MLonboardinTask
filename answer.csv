@@ -1,0 +1,5 @@
+Columns,Average_Rating,Unique_Genres
+"Index(['Poster_Link', 'Series_Title', 'Released_Year', 'Certificate',
+       'Runtime', 'Genre', 'IMDB_Rating', 'Overview', 'Meta_score', 'Director',
+       'Star1', 'Star2', 'Star3', 'Star4', 'No_of_Votes', 'Gross'],
+      dtype='object')",7.949299999999999,21
